@@ -1,0 +1,15 @@
+Core data science and notebook tools
+
+numpy pandas matplotlib scikit-learn jupyter ipykernel
+
+NLP libraries
+
+spacy nltk
+
+Hugging Face / transformer workflows
+
+transformers tokenizers datasets accelerate torch
+
+Optional utilities used by some NLP notebooks
+
+sentencepiece evaluate
