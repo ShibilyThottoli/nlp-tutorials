@@ -1,0 +1,4 @@
+Microsoft is set to invest $3 billion over the next two years to expand its cloud and AI infrastructure in India, marking its largest expansion within the country. This plan includes growing its Azure cloud business, setting up new data centers, and training 10 million people in AI skills by 2030. The announcement was made by CEO Satya Nadella during an event in Bengaluru, following discussions with Indian Prime Minister Narendra Modi. Currently, Microsoft has three data-center clusters in India, with a fourth in development, and additional capacity from telecommunications company Jio. This investment is part of a broader plan, as Microsoft aims to spend $80 billion on AI data centers within its fiscal year ending in June. The company's Azure cloud business reported a 33% revenue increase in the fiscal first quarter. 
+
+CREDITS: wsj.com
+
